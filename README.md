@@ -4,11 +4,12 @@
 
 **Layered persistent memory for your OpenCode agent — ported from [Hermes](https://github.com/weaigc/hermes)**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/github/v/release/realchendahuang/opencode-hermes-memory?sort=semver)](https://github.com/realchendahuang/opencode-hermes-memory/releases)
-[![CI](https://img.shields.io/github/actions/workflow/status/realchendahuang/opencode-hermes-memory/ci.yml?branch=main&label=CI)](https://github.com/realchendahuang/opencode-hermes-memory/actions)
-[![OpenCode Plugin](https://img.shields.io/badge/OpenCode-Plugin-4B32C3)](https://opencode.ai)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/opencode-hermes-memory?style=social)](https://github.com/realchendahuang/opencode-hermes-memory)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/opencode-hermes-memory?style=social)](https://github.com/realchendahuang/opencode-hermes-memory/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/opencode-hermes-memory)](https://github.com/realchendahuang/opencode-hermes-memory/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/opencode-hermes-memory/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 Give your OpenCode agent a **real memory** — user preferences, project conventions, past failures, and hard-won lessons survive across sessions. No vector database, no external services. Just Markdown files you can read, edit, and version-control.
 
